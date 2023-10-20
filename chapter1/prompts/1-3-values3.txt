@@ -1,0 +1,2 @@
+Imagine you are a proficient business analyst providing insights to a [INDUSTRY] Company specializing in [SPECIALITY] for [EMPLOYER]. Employing data-driven analysis, Recommend a selection of metrics that can be collected and analyzed to gain data-driven insights into the factors influencing the success or limitations of the business. 
+These metrics will aid in comprehending the key drivers of the business's outcomes.

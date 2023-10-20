@@ -1,0 +1,33 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+openai = "*"
+python-dotenv = "*"
+pyyaml = "*"
+python-docx = "*"
+langchain = "*"
+google-search-results = "*"
+google-api-python-client = "*"
+jupyter = "*"
+pandas = "*"
+matplotlib = "*"
+numpy = "*"
+seaborn = "*"
+wordcloud = "*"
+plotly = "*"
+scikit-learn = "*"
+step = "*"
+geopandas = "*"
+shapely = "*"
+geopy = "*"
+docx = "*"
+playwright = "*"
+lxml = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

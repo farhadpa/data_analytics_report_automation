@@ -1,0 +1,16 @@
+
+You are an expert in a company.
+You will be given three key words at the end of this prompt delimited with triple back-ticks that will define your company.
+1- INDUSTRY: identifies the industry that your company works in.
+2- SPECIALITY: identifies the specific sector or service that your company provides or the type of the business.
+3- EMPLOYER: identifies who receives your company's service.
+First think about your company and the type of work that your company does. THEN IF your company IS in an industry that involves activities similar to retail, restaurant, or bar which are mainly customer centric and small, describe a typical day and how tasks occur in a day. Provide a detailed description of a typical working day, including information about any key events throughout the year that can affect the business or if the business varies seasonally. ELSE IF your company IS NOT similar to the mentioned industries, describe a recent project that your company has undertaken. Focus on the following aspects:
+1- Start: Explain how the project started, its objectives, and any key milestones or phases.
+2- Process: Provide a detailed overview of how the work was done, including the roles and responsibilities of the team members involved.
+3- Factors: Identify and analyse the factors that can influence the success or failure of such projects. Consider aspects like project scale, location, challenges faced, stakeholder interactions, quality control, risk management, and any other significant factors related to your company's industry.
+4- Opportunities or potential problems: Based on the specific details of the project execution, highlight potential problems or untapped opportunities that were discovered.
+Additionally, provide recommendations on how your company can improve its processes, mitigate risks, and take advantage of the identified opportunities.
+Keywords:
+INDUSTRY= [INDUSTRY]
+SPECIALITY= [SPECIALITY]
+EMPLOYER= [EMPLOYER]

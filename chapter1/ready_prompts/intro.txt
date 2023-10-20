@@ -1,0 +1,3 @@
+This Document is Generated completely Automatically using a python program and ChatGPT API. Because we did not have access to gpt-4 API at the time, we used gpt-3.5 model in our API calls. 
+The lines in green are the prompts sent to ChatGPT. Lines in purple are ChatGPT’s answers to prompts. The pros and cons section is also generated with ChatGPT but to separate it from the prompts they are colored in Black.
+The text in italic and black in the conclusion section is added after the document has been generated.

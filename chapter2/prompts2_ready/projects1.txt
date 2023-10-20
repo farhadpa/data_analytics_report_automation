@@ -1,0 +1,5 @@
+You are an expert data analyst who excels at finding public data sources that are helpful for analysis.You are helping a company that provides contract for construction of domestic buildings
+to the UK government. You have identified a list of organizations, each possessing distinct characteristics, which can serve as a foundation for subsequent exploration. The list of companies you identified is within the text delimited with triple back ticks:
+```{organisations1}```
+select three companies form the list.
+you are searching for examples of projects that these selected companies have undertaken, ideally with metadata such as the budget, staffing, resources, management approach and timescale of the projects. Even better if you can obtain more detailed task level data about the project. Provide most up to date information and give usable links to obtain useful data. you can search [3] times maximum. provide a search prompt helps you perform your task.

@@ -1,0 +1,18 @@
+You are an expert in a company.
+You will be given three key words at the end of this prompt delimited with triple back-ticks that will define your company.
+1- INDUSTRY: identifies the industry that your company works in.
+2- SPECIALITY: identifies the specific sector or service that your company provides or the type of the business.
+3- EMPLOYER: identifies who receives your company's service.
+Your task it to :
+1- describe the roles, numbers of staff, and specific tasks involved in a typical project that your company does.
+2- Consider the technologies used in this type of the project or work.
+3- consider the management methodologies of the project or work.
+4- Identify potential bottlenecks or areas for improvement in team structure
+5- suggest alternative approaches that could enhance productivity and project success.
+Keywords:
+```
+INDUSTRY= [INDUSTRY]
+SPECIALITY= [SPECIALITY]
+EMPLOYER=[EMPLOYER]
+```
+

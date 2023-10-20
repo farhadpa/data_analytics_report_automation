@@ -1,0 +1,86 @@
+textfiles_dir: 'ready_prompts/'
+content:
+  - title: "1. Interview with Expert and AI"
+    type: heading
+    level: 1
+    text_files: ["intro.txt"] # list of text file names
+    prompt_files: [] # list of prompt file names
+    subsections:
+      - title: "1.1. Understanding the Industry"
+        type: heading
+        level: 2
+        text_files: []
+        prompt_files: []
+        subsections:
+          - title: "1.1.1. Project Walkthrough"
+            type: heading
+            level: 3
+            text_files: []
+            prompt_files: ["1-1-1-project_walkthrough.txt", "1-1-2-2-task table.txt"]
+            subsections: []
+          - title: "1.1.2. Business Process Modelling"
+            type: heading
+            level: 3
+            text_files: []
+            prompt_files: ["1-1-2-business process modeling.txt"]
+            subsections: []
+      - title: "1.2. Historic Changes"
+        type: heading
+        level: 2
+        text_files: []
+        prompt_files: ["1-2-historic changes.txt", "1-2-historic changes4.txt"]
+        subsections:
+          - title: "1.2.1. Successes"
+            type: heading
+            level: 3
+            text_files: []
+            prompt_files: ["1-2-historic changes2.txt"]
+            subsections: []
+          - title: "1.2.2. Issues"
+            type: heading
+            level: 3
+            text_files: []
+            prompt_files: ["1-2-historic changes3.txt"]
+            subsections: []
+      - title: "1.3. Values"
+        type: heading
+        level: 2
+        text_files: []
+        prompt_files: []
+        subsections:
+          - title: "1.3.1. Value"
+            type: heading
+            level: 3
+            text_files: []
+            prompt_files: ["1-3-values.txt", "1-3-values2.txt", "1-3-values3.txt", "1-3-values4.txt", "1-3-values5.txt"]
+            subsections: []
+          - title: "1.3.2. Issue"
+            type: heading
+            level: 3
+            text_files: []
+            prompt_files: ["1-3-issues.txt"]
+            subsections: []
+      - title: "1.4. Unquestioned Assumptions"
+        type: heading
+        level: 2
+        text_files: []
+        prompt_files: ["1-4-unquestioned_assumptions.txt"]
+        subsections: []
+      - title: "1.5. Conclusion and Further Work"
+        type: heading
+        level: 2
+        text_files: []
+        prompt_files: []
+        subsections:
+          - title: "1.5.1. Conclusion"
+            type: heading
+            level: 3
+            text_files: []
+            prompt_files: []
+            subsections: []
+          - title: "1.5.2. Further Work"
+            type: heading
+            level: 3
+            text_files: []
+            prompt_files: []
+            subsections: []
